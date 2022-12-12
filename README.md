@@ -59,7 +59,7 @@ University of Washington coding bootcamp Project 3:
 
 To test thisapplication, please clone the repo and install the necessary npm dependencies. Type "npm run develop" from root directery of application
 </br> For code review go to the [Github  repo](  https://github.com/teshome28sara/Gaming-Friend-tracker-UW-project3.git)
-</br>For deployed site go to  [App]( https://mighty-garden-02354.herokuapp.com/)
+</br>For deployed site go to  [Friend-tracker]( https://mighty-garden-02354.herokuapp.com/)
 
 ## Questions
 tes28sar@gmail.com
